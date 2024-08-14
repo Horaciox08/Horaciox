@@ -1,2 +1,6 @@
 # Horacio-sis112
-Repositorio para compartir con los demas
+Programacion I
+Este es un repositorio para compartir y subir mis archivos
+Horacio Martin Rivera Olivera
+Cornejo Quito Elmer Alan
+
