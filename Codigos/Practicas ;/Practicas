@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 my_string = "Hello, World!"
 print(my_string)
+=======
+my_string = "Hello, World!"
+print(my_string)
+>>>>>>> c1a1d0b0e6f144d5e75ff99cb7e4e13f5ddddd47
