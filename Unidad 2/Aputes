@@ -1,0 +1,12 @@
+# Busqueda Linel 
+#Revisa cada elemento de la lista hasta encontrar el valor deseado o recorrer toda la lista.
+#• Complejidad temporal: O(n)
+#• Ejemplo en Python:
+
+def busqueda_lineal (lista, valor):
+    for i in range(len(lista)):
+        if lista[i] == valor:
+            return i
+    return -1
+
+

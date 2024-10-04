@@ -1,6 +1,3 @@
-
-
-
 def suma(a,b):
     resultado = a+b
 def resta(a,b):

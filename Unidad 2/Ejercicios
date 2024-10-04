@@ -1,0 +1,11 @@
+import random
+def glista():
+    L = []
+    tamanio = int(input("Ingrese el tamanio"))
+    Mn = int(input("Ingrese minimo"))
+    Mx = int(input("Ingrese maximo"))
+    for i in range(tamanio):
+        r=random.randint(Mn, Mx)
+        L.append(r)
+    return L
+
